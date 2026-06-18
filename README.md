@@ -4,7 +4,7 @@
 
 **MS at Columbia Business School & Columbia Enigneering**
 
-**Quantitative ML Engineer**
+**Quantitative ML Engineer, AI developer, Vibe coder, and more**
 
 New York, NY  
 [LinkedIn](https://linkedin.com/in/tonytianyuzheng) | [NeuChar](https://www.neuchar.com/)
@@ -24,6 +24,21 @@ Currently working on quantitative research, ranking models, backtesting pipeline
 | [Senparc.Xncf.WeixinManager](https://github.com/tony-tianyu-zheng/Senparc.Xncf.WeixinManager) | WeChat management module |
 | [football-player-market-value-dashboard-portfolio](https://github.com/tony-tianyu-zheng/football-player-market-value-dashboard-portfolio) | ML-powered football player market value dashboard |
 
+## Professional Experience
+**Quantitative ML Engineer @ Icarus Fund, LLC & Quant Street, LLC**
+
+Alpha Deep-dive, Predictive Market, 0DTE Dealer Gamma Flow, etc
+
+**Data Scientist @ Bytedance (TikTok)**
+
+Tiktok Ads Pulse Project, QA-Labeling pipeline design, Model hypertuning, etc
+
+**Market Analyst @ IDEO**
+
+**Technical Consultant @ Roland Berger**
+
+...
+
 ## Technical Toolkit
 
 **Languages and analytics:** Python, SQL, R, JavaScript, STATA, SPSS  
@@ -33,7 +48,7 @@ Currently working on quantitative research, ranking models, backtesting pipeline
 ## Education
 
 **Columbia University**  
-MS in Business Analytics, GPA 4.0/4.0, Expected Dec 2026
+MS in Business Analytics, Expected Dec 2026
 
 **University of Southern California**  
-BA in Philosophy, Politics and Economics, Minor in Applied Analytics, GPA 3.79/4.0
+BA in Philosophy, Politics and Economics, Minor in Applied Analytics

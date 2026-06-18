@@ -24,13 +24,13 @@ My recent work spans:
 
 ## What I Am Working On
 
-- Quantitative Machine Learning Engineer Intern at **Icarus Fund**
+- Quantitative Machine Learning Engineer
 - Founding engineer work across the **NeuChar** ecosystem
 - Open-source framework, documentation, and AI module development for **NCF**
 
 ## Experience Highlights
 
-### Icarus Fund
+### Quantitative ML Engineer
 
 - Researched and formalized 75+ equity alpha signals across market microstructure and price/volume factors
 - Built cross-sectional stock return ranking models with LightGBM and XGBoost
@@ -41,12 +41,6 @@ My recent work spans:
 - Built product and platform infrastructure as a founding engineer across hardware, AI, and cloud workflows
 - Contributed to **NCF**, an Apache-2.0 modular .NET framework with built-in AI modules and multi-database support
 - Helped support an ecosystem used by thousands of developers
-
-### TikTok
-
-- Built Python pipelines for content labeling and quality comparison workflows
-- Designed KPI dashboards for large-scale labeling operations across six regions
-- Applied statistical testing and simulation to reduce labeling cost and improve decision quality
 
 ## Selected Projects
 

@@ -28,20 +28,6 @@ My recent work spans:
 - Founding engineer work across the **NeuChar** ecosystem
 - Open-source framework, documentation, and AI module development for **NCF**
 
-## Experience Highlights
-
-### Quantitative ML Engineer
-
-- Researched and formalized 75+ equity alpha signals across market microstructure and price/volume factors
-- Built cross-sectional stock return ranking models with LightGBM and XGBoost
-- Engineered a 0DTE dealer-gamma strategy and production-grade Python backtest workflow
-
-### NeuChar
-
-- Built product and platform infrastructure as a founding engineer across hardware, AI, and cloud workflows
-- Contributed to **NCF**, an Apache-2.0 modular .NET framework with built-in AI modules and multi-database support
-- Helped support an ecosystem used by thousands of developers
-
 ## Selected Projects
 
 | Project | Focus |

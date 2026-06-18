@@ -4,29 +4,14 @@
 
 **MS in Business Analytics at Columbia University**
 
-**Quantitative ML Engineer | Founding Engineer**
+**Quantitative ML Engineer**
 
 New York, NY  
 [LinkedIn](https://linkedin.com/in/tonytianyuzheng) | [NeuChar](https://www.neuchar.com/)
 
 </div>
 
-## About
-
-I build data products, machine learning systems, and modular developer platforms.
-
-My recent work spans:
-
-- quantitative research and alpha modeling
-- ranking models and backtesting pipelines
-- AI and developer tooling
-- open-source framework and product infrastructure
-
-## What I Am Working On
-
-- Quantitative Machine Learning Engineer
-- Founding engineer work across the **NeuChar** ecosystem
-- Open-source framework, documentation, and AI module development for **NCF**
+Currently working on quantitative research, ranking models, backtesting pipelines, and open-source framework / AI tooling across the NeuChar ecosystem.
 
 ## Selected Projects
 

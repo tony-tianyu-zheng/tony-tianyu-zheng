@@ -1,8 +1,8 @@
 <div align="center">
 
-# Tianyu Zheng
+# Tony(Tianyu) Zheng
 
-**MS in Business Analytics at Columbia University**
+**MS at Columbia Business School & Columbia Enigneering**
 
 **Quantitative ML Engineer**
 
